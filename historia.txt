@@ -13,7 +13,4 @@ profesional de Git y GitHub :D
 Mi nombre es Esau Maximino y 
 saldre adelante sin un titulo universitario !
 
-Con este parrafo vamos a comprobar los cambios
-que visualizara Visual Studio Code
-
 Mi twitter es @max23esau 
