@@ -1,16 +1,16 @@
 Este es el princio de mi historia....
 
-Empecemos con el hecho que 
+Mi nombre es Esau Maximino y 
+saldre adelante sin un titulo universitario !
+
+Empecemos con el hecho de que 
 soy un Platzi Student <3
 
-Quiero aprender sobre Frontend y 
-animaciones en la web. Con CSS y 
-Java Script !!!
+Quiero aprender sobre Desarrollo Frontend
+y animaciones en la web. 
+Con CSS y Java Script !!!
 
 Y este es un proyecto del curso 
 profesional de Git y GitHub :D
-
-Mi nombre es Esau Maximino y 
-saldre adelante sin un titulo universitario !
 
 Mi twitter es @Max23Esau 
