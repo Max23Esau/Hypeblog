@@ -1,4 +1,4 @@
-Esta es una nueva historia !!!
+Este es el princio de mi historia....
 
 Empecemos con el hecho que 
 soy un Platzi Student <3 
@@ -8,3 +8,6 @@ profesional de Git y GitHub :D
 
 Mi nombre es Esau Maximino y 
 saldre adelante sin un titulo universitario !
+
+Con este parrafo vamos a comprobar los cambios
+que visualizara Visual Studio Code
