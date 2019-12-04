@@ -1,7 +1,11 @@
 Este es el princio de mi historia....
 
 Empecemos con el hecho que 
-soy un Platzi Student <3 
+soy un Platzi Student <3
+
+Quiero aprender sobre Frontend y 
+animaciones en la web. Con CSS y 
+Java Script !!!
 
 Y este es un proyecto del curso 
 profesional de Git y GitHub :D
@@ -11,3 +15,5 @@ saldre adelante sin un titulo universitario !
 
 Con este parrafo vamos a comprobar los cambios
 que visualizara Visual Studio Code
+
+Mi twitter es @max23esau 
