@@ -1,2 +1,3 @@
-# HyperBlog2
-Rehusando el proyecto de Hyperblog de Platzi
+# Hyperblog
+
+Este es el proyecto que fusionaremos con nuestro directorio de trabajo y repositorio local para el curso profesional de Git y GitHub
