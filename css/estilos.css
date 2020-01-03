@@ -1,6 +1,6 @@
 body
 {
-    background: #1e1f24;
+    background: -webkit-linear-gradient(right,#95ca3e,#95ca3e 50%,#85c638);
     color: #333;
     text-align: center;
     font-family: sans-serif;
@@ -10,33 +10,24 @@ body
 }
 #cabecera
 {
-    background: #33A;
+    background: #1e1f24;
     box-shadow:  0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    text-align: center;
 }
 
 #cabecera #logo{
-    width: 30px;
+    width: 50px;
     vertical-align: middle;
 }
-
 #cabecera #tagline
 {
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
+    font-size: 25px;
+    display: inline-flex;
 }
-
-#cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-}
-
 
 #container
 {
@@ -66,13 +57,13 @@ body
     border-radius: 5px;
     padding: 15px;
     text-decoration: none;
-    background-color: #33A;
-    color: white;
+    background: -webkit-linear-gradient(right,#95ca3e,#95ca3e 50%,#85c638);
+    color: rgb(245, 245, 245);
     font-size: 20px;
 }
 
 #footer{
-    background: #777;
+    background: #1e1f24;
     color: white;
     text-align: center;
     padding: 0.5em;
